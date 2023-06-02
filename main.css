@@ -1,0 +1,63 @@
+#shortBreak{
+    width:50px;
+    margin-left: 390px;
+    
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(199, 205, 209);
+}
+#title{
+    margin-left: 390px;
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+
+
+}
+tr{
+    background-color: aliceblue;
+    border-bottom: 10px solid rgb(199, 205, 209);
+    border-top: 10px solid rgb(199, 205, 209);
+   
+    
+}
+td{
+    padding-right: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;   
+    border: 5px;
+}
+#clickMe{
+
+    border: 1px solid black;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    margin-left: 390px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+.darkModetr{
+    background-color: rgb(136, 136, 136);
+    border-bottom: 10px solid rgb(87, 87, 87);
+    border-top: 10px solid  rgb(87, 87, 87);
+    color:aliceblue;
+}
+
+.darkModeBody{
+    background-color: rgb(87, 87, 87);
+    color: aliceblue;
+}
+#darkModeButton{
+    color: aliceblue;
+    border: 1px solid aliceblue;
+}
